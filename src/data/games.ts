@@ -218,6 +218,14 @@ export const games: Game[] = [
     thumbnail: 'https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/306020/capsule_616x353.jpg?t=1770223235',
     category: 'solo'
   },
+  {
+    id: 'game-47',
+    title: 'Test',
+    description: 'testing upcoming games',
+    url: '/clFIFA11.html',
+    thumbnail: '',
+    category: 'solo'
+  },
   // ── MULTIPLAYER ──
   {
     id: 'game-17',
