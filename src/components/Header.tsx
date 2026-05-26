@@ -6,7 +6,7 @@ export default function Header() {
     <header className="border-b-2 border-black bg-white sticky top-0 z-50">
       <div className="bg-yellow-300 border-b-2 border-black py-1 px-4 text-center">
         <span className="font-mono text-[10px] sm:text-xs font-black uppercase tracking-tight">
-           Note: This is a work in progress website (May stop working occasionally). 
+           Note: some games might be broken. This means that it might or might not be fixed.  Speak to the creators if you want a game to be added.
         </span>
       </div>
       <div className="max-w-7xl mx-auto px-4 h-16 flex items-center justify-between">
@@ -19,7 +19,7 @@ export default function Header() {
           </span>
         </Link>
         <nav className="hidden md:flex items-center gap-6">
-          <Link to="/" className="font-mono text-sm font-bold hover:underline underline-offset-4 tracking-tighter">MADE BY ™ AND GRANDDIA2</Link>
+          <Link to="/" className="font-mono text-sm font-bold hover:underline underline-offset-4 tracking-tighter">This is a collaborative website made by TM and Granddia2.</Link>
         </nav>
       </div>
     </header>

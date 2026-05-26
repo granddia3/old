@@ -5,7 +5,7 @@ import Header from './components/Header';
 import GamePlayer from './components/GamePlayer';
 import { motion, AnimatePresence } from 'motion/react';
 
-const ACCESS_CODE = import.meta.env.VITE_ACCESS_CODE ?? '0609';
+const ACCESS_CODE = import.meta.env.VITE_ACCESS_CODE ?? '4321';
 
 export default function App() {
   const [enteredCode, setEnteredCode] = useState('');
