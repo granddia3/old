@@ -427,6 +427,14 @@ export const games: Game[] = [
     thumbnail: 'https://makeitmeme.com/header.webp',
     category: 'Multiplayer'
   },
+   {
+    id: 'game-54',
+    title: 'Pokemon Showdown',
+    description: 'Might be blocked',
+    url: 'https://play.pokemonshowdown.com/',
+    thumbnail: 'https://i.ytimg.com/vi/daw9GoZWWSI/maxresdefault.jpg',
+    category: 'Multiplayer'
+  },
   {
     id: 'game-38',
     title: 'Gartic Phone Copy',
