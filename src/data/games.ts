@@ -220,9 +220,41 @@ export const games: Game[] = [
   },
   {
     id: 'game-47',
-    title: 'Test',
-    description: 'testing upcoming games',
+    title: 'FIFA 11',
+    description: 'yeah',
     url: '/clFIFA11.html',
+    thumbnail: '',
+    category: 'solo'
+  },
+  {
+    id: 'game-48',
+    title: 'Madden 2002',
+    description: 'yeah',
+    url: '/clmaddennfl2002.html',
+    thumbnail: '',
+    category: 'solo'
+  },
+  {
+    id: 'game-49',
+    title: 'Call of Duty 4',
+    description: 'yeah',
+    url: '/clcod4.html',
+    thumbnail: '',
+    category: 'solo'
+  },
+  {
+    id: 'game-50',
+    title: 'GTA Advance',
+    description: 'yeah',
+    url: '/clgrandtheftautoadvance.html',
+    thumbnail: '',
+    category: 'solo'
+  },
+  {
+    id: 'game-51',
+    title: 'NFS: Most Wanted',
+    description: 'yeah',
+    url: '/clnfsmostwanted.html',
     thumbnail: '',
     category: 'solo'
   },
