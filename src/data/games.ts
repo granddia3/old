@@ -266,6 +266,14 @@ export const games: Game[] = [
     thumbnail: 'https://media.tenor.com/7vR97sAI99IAAAAe/watermelon-game-suika-game.png',
     category: 'solo'
   },
+  {
+    id: 'game-53',
+    title: 'Pokemon Platinum',
+    description: 'yeah',
+    url: '/clpokeplatinum.html',
+    thumbnail: '',
+    category: 'solo'
+  },
   // ── MULTIPLAYER ──
   {
     id: 'game-17',
