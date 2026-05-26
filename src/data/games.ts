@@ -427,7 +427,7 @@ export const games: Game[] = [
     thumbnail: 'https://makeitmeme.com/header.webp',
     category: 'Multiplayer'
   },
-   {
+  {
     id: 'game-54',
     title: 'Pokemon Showdown',
     description: 'Might be blocked',
