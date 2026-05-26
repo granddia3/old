@@ -187,14 +187,6 @@ export const games: Game[] = [
     category: 'solo'
   },
   {
-    id: 'game-46',
-    title: 'Bloons TD5',
-    description: 'the actual one',
-    url: 'https://uploads.ungrounded.net/ruffle_wrapper/ruffleembed.html?v=1.2.3&browsermode=default&props=%7B"ruffle"%3A"%2Fruffle_wrapper%2Flib%2Fruffle.js%3F1779684120"%2C"public_path"%3A"%2Fruffle_wrapper%2Flib%2F"%2C"swf"%3A"https%3A%2F%2Fuploads.ungrounded.net%2F610000%2F610995_btd5.swf%3F1726310975"%2C"vars"%3A%7B"NewgroundsAPI_PublisherID"%3A1%2C"NewgroundsAPI_SandboxID"%3A"6a14e5bf54ed1"%2C"NewgroundsAPI_SessionID"%3A""%2C"NewgroundsAPI_UserName"%3A"%26lt%3Bdeleted%26gt%3B"%2C"NewgroundsAPI_UserID"%3A0%2C"ng_username"%3A"%26lt%3Bdeleted%26gt%3B"%7D%2C"width"%3A800%2C"height"%3A620%2C"icon"%3A"https%3A%2F%2Fpicon.ngfiles.com%2F610000%2Fflash_610995_card.webp%3Ff1726310979"%2C"warnOnUnsupportedContent"%3Afalse%2C"external"%3A"%2Fruffle_wrapper%2Fexternal%2Fruffle-external-input.js%3F1779380546"%7D',
-    thumbnail: 'https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/306020/capsule_616x353.jpg?t=1770223235',
-    category: 'solo'
-  },
-  {
     id: 'game-47',
     title: 'FIFA 11',
     description: 'yeah',
