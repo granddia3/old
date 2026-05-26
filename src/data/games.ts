@@ -12,7 +12,7 @@ export const games: Game[] = [
   {
     id: 'game-1',
     title: 'Chat',
-    description: 'Fun to play with your friends.',
+    description: 'Fun to chat with your friends.',
     url: 'https://tharaniidaran-t.github.io/chat/',
     thumbnail: 'https://images.ctfassets.net/mrsnpomeucef/3BUijrF6jnsDbghL6sCF1/9c15892b4a259e619acd5aa7a4c3f698/Untitled_design__47_.png',
     category: 'Social'
