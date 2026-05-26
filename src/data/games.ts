@@ -246,7 +246,7 @@ export const games: Game[] = [
     id: 'game-54',
     title: 'Test',
     description: 'yeah',
-    url: '/soulsilver.html',
+    url: '/test.html',
     thumbnail: '',
     category: 'solo'
   },
