@@ -107,14 +107,6 @@ export const games: Game[] = [
     category: 'Driving'
   },
   {
-    id: 'game-11',
-    title: 'Subway Surfers',
-    description: 'Jump',
-    url: 'https://files.gamezhero.com/game/905/1d1/9051d1173be765fb/data/index.html',
-    thumbnail: 'https://upload.wikimedia.org/wikipedia/en/thumb/a/a3/Subway_Surfers_logo.svg/1280px-Subway_Surfers_logo.svg.png',
-    category: 'Solo'
-  },
-  {
     id: 'game-14',
     title: 'Five Nights At Epsteins',
     description: 'BROKEN ON ALL WEBSITES BECAUSE SCHOOLS GOT IT TAKEN DOWN',
@@ -171,28 +163,12 @@ export const games: Game[] = [
     category: 'Solo'
   },
   {
-    id: 'game-40',
-    title: 'Snake',
-    description: 'Fun to play',
-    url: 'https://googlesnakemods.com/v/current/',
-    thumbnail: 'https://www5.minijuegosgratis.com/v3/games/thumbnails/246309_1.jpg',
-    category: 'solo'
-  },
-  {
     id: 'game-42',
     title: 'Tomb of the Mask',
     description: 'Fun to play',
     url: 'https://doraedu52.github.io/g26/class-438',
     thumbnail: 'https://upload.wikimedia.org/wikipedia/commons/9/91/Tomb_of_the_Mask_promo_art.png',
     category: 'solo' 
-  },
-  {
-    id: 'game-43',
-    title: 'Crossy Road',
-    description: 'Fun to play. Requested by a gril.',
-    url: 'https://azgames.io/game/crossy-road/',
-    thumbnail: 'https://crossyroadonline.bitbucket.io/img/crossy-road.png',
-    category: 'solo'   
   },
   {
     id: 'game-44',
