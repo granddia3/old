@@ -242,6 +242,14 @@ export const games: Game[] = [
     thumbnail: '',
     category: 'solo'
   },
+  {
+    id: 'game-54',
+    title: 'Test',
+    description: 'yeah',
+    url: '/soulsilver.html',
+    thumbnail: '',
+    category: 'solo'
+  },
   // ── MULTIPLAYER ──
   {
     id: 'game-17',
