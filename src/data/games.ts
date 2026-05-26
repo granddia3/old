@@ -258,6 +258,14 @@ export const games: Game[] = [
     thumbnail: '',
     category: 'solo'
   },
+  {
+    id: 'game-52',
+    title: 'Suika Watermelon copy',
+    description: 'yeah',
+    url: 'https://tharaniidaran-t.github.io/suika-game/',
+    thumbnail: 'https://media.tenor.com/7vR97sAI99IAAAAe/watermelon-game-suika-game.png',
+    category: 'solo'
+  },
   // ── MULTIPLAYER ──
   {
     id: 'game-17',
