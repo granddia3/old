@@ -191,7 +191,7 @@ export const games: Game[] = [
     title: 'FIFA 11',
     description: 'yeah',
     url: '/clFIFA11.html',
-    thumbnail: '',
+    thumbnail: 'https://upload.wikimedia.org/wikipedia/en/f/f5/Fifa11_Game_Cover.jpg',
     category: 'solo'
   },
   {
@@ -199,7 +199,7 @@ export const games: Game[] = [
     title: 'Madden 2002',
     description: 'yeah',
     url: '/clmaddennfl2002.html',
-    thumbnail: '',
+    thumbnail: 'https://upload.wikimedia.org/wikipedia/en/a/a0/Madden_NFL_2002_Coverart.png',
     category: 'solo'
   },
   {
@@ -207,7 +207,7 @@ export const games: Game[] = [
     title: 'Call of Duty 4',
     description: 'yeah',
     url: '/clcod4.html',
-    thumbnail: '',
+    thumbnail: 'https://upload.wikimedia.org/wikipedia/en/5/5f/Call_of_Duty_4_Modern_Warfare.jpg',
     category: 'solo'
   },
   {
@@ -215,7 +215,7 @@ export const games: Game[] = [
     title: 'GTA Advance',
     description: 'yeah',
     url: '/clgrandtheftautoadvance.html',
-    thumbnail: '',
+    thumbnail: 'https://m.media-amazon.com/images/M/MV5BNjRhYzk1ODItYjFhNy00OGU4LWE2YjAtZTk3NmRlNDhiZTFjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg',
     category: 'solo'
   },
   {
@@ -223,7 +223,7 @@ export const games: Game[] = [
     title: 'NFS: Most Wanted',
     description: 'yeah',
     url: '/clnfsmostwanted.html',
-    thumbnail: '',
+    thumbnail: 'https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1262560/capsule_616x353.jpg?t=1777484382',
     category: 'solo'
   },
   {
@@ -239,7 +239,7 @@ export const games: Game[] = [
     title: 'Pokemon Platinum',
     description: 'yeah',
     url: '/clpokeplatinum.html',
-    thumbnail: '',
+    thumbnail: 'https://upload.wikimedia.org/wikipedia/en/c/ca/Pokemon_Platinum.png',
     category: 'solo'
   },
   {
@@ -401,14 +401,6 @@ export const games: Game[] = [
     description: 'unblocked now',
     url: 'https://doraedu52.github.io/g22/class-368',
     thumbnail: 'https://makeitmeme.com/header.webp',
-    category: 'Multiplayer'
-  },
-  {
-    id: 'game-54',
-    title: 'Pokemon Showdown',
-    description: 'Might be blocked',
-    url: 'https://play.pokemonshowdown.com/',
-    thumbnail: 'https://i.ytimg.com/vi/daw9GoZWWSI/maxresdefault.jpg',
     category: 'Multiplayer'
   },
   {
