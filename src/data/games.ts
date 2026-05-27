@@ -33,14 +33,6 @@ export const games: Game[] = [
     thumbnail: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_yL7AtgrIozF4QESx27DN6CDTvAuxtEfPPw&s',
     category: 'Solo'
   },
-  {
-    id: 'game-13',
-    title: 'Proxy',
-    description: 'Allows you to scour the web unblocked',
-    url: 'https://somany.gsxpress.com.my/',
-    thumbnail: 'https://cdn.prod.website-files.com/65e50602c9dc544319635b46/65e88c2b238ceb5fe132c177_proxy-logo.png',
-    category: 'Solo'
-  },
   // ── SOLO ──
   {
     id: 'game-3',
