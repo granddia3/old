@@ -12,7 +12,7 @@ export const games: Game[] = [
   {
     id: 'game-1',
     title: 'Chat',
-    description: 'Fun to play with your friends.',
+    description: 'Fun to chat with your friends.',
     url: 'https://tharaniidaran-t.github.io/chat/',
     thumbnail: 'https://images.ctfassets.net/mrsnpomeucef/3BUijrF6jnsDbghL6sCF1/9c15892b4a259e619acd5aa7a4c3f698/Untitled_design__47_.png',
     category: 'Social'
@@ -32,12 +32,12 @@ export const games: Game[] = [
     url: 'https://granddia2.github.io/old/yt.html',
     thumbnail: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_yL7AtgrIozF4QESx27DN6CDTvAuxtEfPPw&s',
     category: 'Solo'
-  },
+  },  
   {
     id: 'game-13',
     title: 'Proxy',
     description: 'Allows you to scour the web unblocked',
-    url: 'https://public.rossco.uk/',
+    url: 'https://somany.gsxpress.com.my/',
     thumbnail: 'https://cdn.prod.website-files.com/65e50602c9dc544319635b46/65e88c2b238ceb5fe132c177_proxy-logo.png',
     category: 'Solo'
   },
@@ -107,14 +107,6 @@ export const games: Game[] = [
     category: 'Driving'
   },
   {
-    id: 'game-11',
-    title: 'Subway Surfers',
-    description: 'Jump',
-    url: 'https://files.gamezhero.com/game/905/1d1/9051d1173be765fb/data/index.html',
-    thumbnail: 'https://upload.wikimedia.org/wikipedia/en/thumb/a/a3/Subway_Surfers_logo.svg/1280px-Subway_Surfers_logo.svg.png',
-    category: 'Solo'
-  },
-  {
     id: 'game-14',
     title: 'Five Nights At Epsteins',
     description: 'BROKEN ON ALL WEBSITES BECAUSE SCHOOLS GOT IT TAKEN DOWN',
@@ -171,28 +163,12 @@ export const games: Game[] = [
     category: 'Solo'
   },
   {
-    id: 'game-40',
-    title: 'Snake',
-    description: 'Fun to play',
-    url: 'https://googlesnakemods.com/v/current/',
-    thumbnail: 'https://www5.minijuegosgratis.com/v3/games/thumbnails/246309_1.jpg',
-    category: 'solo'
-  },
-  {
     id: 'game-42',
     title: 'Tomb of the Mask',
     description: 'Fun to play',
     url: 'https://doraedu52.github.io/g26/class-438',
     thumbnail: 'https://upload.wikimedia.org/wikipedia/commons/9/91/Tomb_of_the_Mask_promo_art.png',
     category: 'solo' 
-  },
-  {
-    id: 'game-43',
-    title: 'Crossy Road',
-    description: 'Fun to play. Requested by a gril.',
-    url: 'https://azgames.io/game/crossy-road/',
-    thumbnail: 'https://crossyroadonline.bitbucket.io/img/crossy-road.png',
-    category: 'solo'   
   },
   {
     id: 'game-44',
@@ -211,19 +187,11 @@ export const games: Game[] = [
     category: 'solo'
   },
   {
-    id: 'game-46',
-    title: 'Bloons TD5',
-    description: 'the actual one',
-    url: 'https://uploads.ungrounded.net/ruffle_wrapper/ruffleembed.html?v=1.2.3&browsermode=default&props=%7B"ruffle"%3A"%2Fruffle_wrapper%2Flib%2Fruffle.js%3F1779684120"%2C"public_path"%3A"%2Fruffle_wrapper%2Flib%2F"%2C"swf"%3A"https%3A%2F%2Fuploads.ungrounded.net%2F610000%2F610995_btd5.swf%3F1726310975"%2C"vars"%3A%7B"NewgroundsAPI_PublisherID"%3A1%2C"NewgroundsAPI_SandboxID"%3A"6a14e5bf54ed1"%2C"NewgroundsAPI_SessionID"%3A""%2C"NewgroundsAPI_UserName"%3A"%26lt%3Bdeleted%26gt%3B"%2C"NewgroundsAPI_UserID"%3A0%2C"ng_username"%3A"%26lt%3Bdeleted%26gt%3B"%7D%2C"width"%3A800%2C"height"%3A620%2C"icon"%3A"https%3A%2F%2Fpicon.ngfiles.com%2F610000%2Fflash_610995_card.webp%3Ff1726310979"%2C"warnOnUnsupportedContent"%3Afalse%2C"external"%3A"%2Fruffle_wrapper%2Fexternal%2Fruffle-external-input.js%3F1779380546"%7D',
-    thumbnail: 'https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/306020/capsule_616x353.jpg?t=1770223235',
-    category: 'solo'
-  },
-  {
     id: 'game-47',
     title: 'FIFA 11',
     description: 'yeah',
     url: '/clFIFA11.html',
-    thumbnail: '',
+    thumbnail: 'https://upload.wikimedia.org/wikipedia/en/f/f5/Fifa11_Game_Cover.jpg',
     category: 'solo'
   },
   {
@@ -231,7 +199,7 @@ export const games: Game[] = [
     title: 'Madden 2002',
     description: 'yeah',
     url: '/clmaddennfl2002.html',
-    thumbnail: '',
+    thumbnail: 'https://upload.wikimedia.org/wikipedia/en/a/a0/Madden_NFL_2002_Coverart.png',
     category: 'solo'
   },
   {
@@ -239,7 +207,7 @@ export const games: Game[] = [
     title: 'Call of Duty 4',
     description: 'yeah',
     url: '/clcod4.html',
-    thumbnail: '',
+    thumbnail: 'https://upload.wikimedia.org/wikipedia/en/5/5f/Call_of_Duty_4_Modern_Warfare.jpg',
     category: 'solo'
   },
   {
@@ -247,7 +215,7 @@ export const games: Game[] = [
     title: 'GTA Advance',
     description: 'yeah',
     url: '/clgrandtheftautoadvance.html',
-    thumbnail: '',
+    thumbnail: 'https://m.media-amazon.com/images/M/MV5BNjRhYzk1ODItYjFhNy00OGU4LWE2YjAtZTk3NmRlNDhiZTFjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg',
     category: 'solo'
   },
   {
@@ -255,7 +223,7 @@ export const games: Game[] = [
     title: 'NFS: Most Wanted',
     description: 'yeah',
     url: '/clnfsmostwanted.html',
-    thumbnail: '',
+    thumbnail: 'https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1262560/capsule_616x353.jpg?t=1777484382',
     category: 'solo'
   },
   {
@@ -271,7 +239,15 @@ export const games: Game[] = [
     title: 'Pokemon Platinum',
     description: 'yeah',
     url: '/clpokeplatinum.html',
-    thumbnail: '',
+    thumbnail: 'https://upload.wikimedia.org/wikipedia/en/c/ca/Pokemon_Platinum.png',
+    category: 'solo'
+  },
+  {
+    id: 'game-54',
+    title: 'Pokemon Black 2',
+    description: 'yeah',
+    url: 'https://granddia2.github.io/pokemon/black2.html',
+    thumbnail: 'https://www.nintendo.com/eu/media/images/10_share_images/games_15/nintendo_ds_22/SI_NDS_PokemonBlackAndWhite2_Black_enGB_image1600w.jpg',
     category: 'solo'
   },
   // ── MULTIPLAYER ──
@@ -425,14 +401,6 @@ export const games: Game[] = [
     description: 'unblocked now',
     url: 'https://doraedu52.github.io/g22/class-368',
     thumbnail: 'https://makeitmeme.com/header.webp',
-    category: 'Multiplayer'
-  },
-  {
-    id: 'game-54',
-    title: 'Pokemon Showdown',
-    description: 'Might be blocked',
-    url: 'https://play.pokemonshowdown.com/',
-    thumbnail: 'https://i.ytimg.com/vi/daw9GoZWWSI/maxresdefault.jpg',
     category: 'Multiplayer'
   },
   {
