@@ -4,6 +4,7 @@
 @theme {
   --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
   --font-mono: "JetBrains Mono", ui-monospace, SFMono-Regular, monospace;
+  darkMode: 'class'
 }
 
 /* Custom styles for the markdown-like prose in AI chat since we don't have tailwind-typography plugin pre-installed normally in this environment */
