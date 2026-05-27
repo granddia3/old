@@ -12,16 +12,20 @@ export default function Header() {
     return false;
   });
 
+  // Sync class on every dark state change, and on mount to clear any stale class
   useEffect(() => {
     const root = document.documentElement;
-    if (dark) {
-      root.classList.add('dark');
-      localStorage.setItem('theme', 'dark');
-    } else {
-      root.classList.remove('dark');
-      localStorage.setItem('theme', 'light');
-    }
+    root.classList.toggle('dark', dark);
+    localStorage.setItem('theme', dark ? 'dark' : 'light');
   }, [dark]);
+
+  // On mount: forcibly reconcile the class with localStorage in case it drifted
+  useEffect(() => {
+    const stored = localStorage.getItem('theme');
+    const shouldBeDark = stored === 'dark' || (!stored && window.matchMedia('(prefers-color-scheme: dark)').matches);
+    document.documentElement.classList.toggle('dark', shouldBeDark);
+    setDark(shouldBeDark);
+  }, []);
 
   return (
     <header className="border-b-2 border-black dark:border-neutral-600 bg-white dark:bg-neutral-900 sticky top-0 z-50 transition-colors duration-200">
